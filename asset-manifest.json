@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/image-finder/static/css/main.d45f21a2.css",
+    "main.js": "/image-finder/static/js/main.10c50fa2.js",
+    "index.html": "/image-finder/index.html",
+    "main.d45f21a2.css.map": "/image-finder/static/css/main.d45f21a2.css.map",
+    "main.10c50fa2.js.map": "/image-finder/static/js/main.10c50fa2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d45f21a2.css",
+    "static/js/main.10c50fa2.js"
+  ]
+}
